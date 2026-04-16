@@ -1,0 +1,1848 @@
+{
+  "metadata": {
+    "examLabel": "NTA JEE Mains Apr 2026 Paper I",
+    "name": "S***A S****R",
+    "applicationNo": "26××××××××32",
+    "rollNo": "WB×××××89",
+    "testDate": 1775241000,
+    "testTime": [
+      1775295000,
+      1775305800
+    ],
+    "subject": "B. Tech"
+  },
+  "keyMap": {
+    "695278376": "6952781276",
+    "695278377": "6952781283",
+    "695278378": "6952781285",
+    "695278379": "6952781290",
+    "695278380": "6952781293",
+    "695278381": "6952781298",
+    "695278382": "6952781302",
+    "695278383": "6952781307",
+    "695278384": "6952781308",
+    "695278385": "6952781315",
+    "695278386": "6952781317",
+    "695278387": "6952781321",
+    "695278388": "6952781325",
+    "695278389": "6952781328",
+    "695278390": "6952781332",
+    "695278391": "6952781337",
+    "695278392": "6952781342",
+    "695278393": "6952781346",
+    "695278394": "6952781351",
+    "695278395": "6952781355",
+    "695278396": "944",
+    "695278397": "4",
+    "695278398": "9",
+    "695278399": "16",
+    "695278400": "5",
+    "695278401": "6952781361",
+    "695278402": "6952781367",
+    "695278403": "6952781372",
+    "695278404": "6952781374",
+    "695278405": "6952781379",
+    "695278406": "6952781384",
+    "695278407": "6952781386",
+    "695278408": "6952781391",
+    "695278409": "6952781396",
+    "695278410": "6952781397",
+    "695278411": "6952781401",
+    "695278412": "6952781405",
+    "695278413": "6952781410",
+    "695278414": "6952781414",
+    "695278415": "6952781417",
+    "695278416": "6952781424",
+    "695278417": "6952781427",
+    "695278418": "6952781432",
+    "695278419": "6952781433",
+    "695278420": "6952781439",
+    "695278421": "300",
+    "695278422": "8",
+    "695278423": "12",
+    "695278424": "314",
+    "695278425": "5625",
+    "695278426": "6952781449",
+    "695278427": "6952781451",
+    "695278428": "6952781456",
+    "695278429": "6952781460",
+    "695278430": "6952781463",
+    "695278431": "6952781468",
+    "695278432": "6952781472",
+    "695278433": "6952781476",
+    "695278434": "6952781481",
+    "695278435": "6952781482",
+    "695278436": "6952781489",
+    "695278437": "6952781492",
+    "695278438": "6952781495",
+    "695278439": "6952781499",
+    "695278440": "6952781503",
+    "695278441": "6952781509",
+    "695278442": "6952781512",
+    "695278443": "6952781516",
+    "695278444": "6952781521",
+    "695278445": "6952781522",
+    "695278446": "3",
+    "695278447": "2474",
+    "695278448": "2",
+    "695278449": "7",
+    "695278450": "435"
+  },
+  "responses": [
+    {
+      "section": "maths",
+      "sub": "Mathematics Section A",
+      "qno": 1,
+      "qid": "695278386",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781318",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q61_o1.jpg"
+        },
+        "2": {
+          "id": "6952781319",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q61_o2.jpg"
+        },
+        "3": {
+          "id": "6952781316",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q61_o3.jpg"
+        },
+        "4": {
+          "id": "6952781317",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q61_o4.jpg"
+        }
+      },
+      "chosen": null,
+      "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q61.jpg"
+    },
+    {
+      "section": "maths",
+      "sub": "Mathematics Section A",
+      "qno": 2,
+      "qid": "695278393",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781345",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q68_o1.jpg"
+        },
+        "2": {
+          "id": "6952781347",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q68_o2.jpg"
+        },
+        "3": {
+          "id": "6952781346",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q68_o3.jpg"
+        },
+        "4": {
+          "id": "6952781344",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q68_o4.jpg"
+        }
+      },
+      "chosen": 1,
+      "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q68.jpg"
+    },
+    {
+      "section": "maths",
+      "sub": "Mathematics Section A",
+      "qno": 3,
+      "qid": "695278379",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781288",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q54_o1.jpg"
+        },
+        "2": {
+          "id": "6952781289",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q54_o2.jpg"
+        },
+        "3": {
+          "id": "6952781291",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q54_o3.jpg"
+        },
+        "4": {
+          "id": "6952781290",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q54_o4.jpg"
+        }
+      },
+      "chosen": 4,
+      "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q54.jpg"
+    },
+    {
+      "section": "maths",
+      "sub": "Mathematics Section A",
+      "qno": 4,
+      "qid": "695278378",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781285",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q53_o1.jpg"
+        },
+        "2": {
+          "id": "6952781286",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q53_o2.jpg"
+        },
+        "3": {
+          "id": "6952781287",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q53_o3.jpg"
+        },
+        "4": {
+          "id": "6952781284",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q53_o4.jpg"
+        }
+      },
+      "chosen": null,
+      "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q53.jpg"
+    },
+    {
+      "section": "maths",
+      "sub": "Mathematics Section A",
+      "qno": 5,
+      "qid": "695278382",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781301",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q57_o1.jpg"
+        },
+        "2": {
+          "id": "6952781303",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q57_o2.jpg"
+        },
+        "3": {
+          "id": "6952781300",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q57_o3.jpg"
+        },
+        "4": {
+          "id": "6952781302",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q57_o4.jpg"
+        }
+      },
+      "chosen": 4,
+      "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q57.jpg"
+    },
+    {
+      "section": "maths",
+      "sub": "Mathematics Section A",
+      "qno": 6,
+      "qid": "695278376",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781278",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q51_o1.jpg"
+        },
+        "2": {
+          "id": "6952781277",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q51_o2.jpg"
+        },
+        "3": {
+          "id": "6952781279",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q51_o3.jpg"
+        },
+        "4": {
+          "id": "6952781276",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q51_o4.jpg"
+        }
+      },
+      "chosen": null,
+      "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q51.jpg"
+    },
+    {
+      "section": "maths",
+      "sub": "Mathematics Section A",
+      "qno": 7,
+      "qid": "695278394",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781350",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q69_o1.jpg"
+        },
+        "2": {
+          "id": "6952781351",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q69_o2.jpg"
+        },
+        "3": {
+          "id": "6952781348",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q69_o3.jpg"
+        },
+        "4": {
+          "id": "6952781349",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q69_o4.jpg"
+        }
+      },
+      "chosen": null,
+      "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q69.jpg"
+    },
+    {
+      "section": "maths",
+      "sub": "Mathematics Section A",
+      "qno": 8,
+      "qid": "695278384",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781311",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q59_o1.jpg"
+        },
+        "2": {
+          "id": "6952781310",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q59_o2.jpg"
+        },
+        "3": {
+          "id": "6952781308",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q59_o3.jpg"
+        },
+        "4": {
+          "id": "6952781309",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q59_o4.jpg"
+        }
+      },
+      "chosen": 3,
+      "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q59.jpg"
+    },
+    {
+      "section": "maths",
+      "sub": "Mathematics Section A",
+      "qno": 9,
+      "qid": "695278389",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781330",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q64_o1.jpg"
+        },
+        "2": {
+          "id": "6952781328",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q64_o2.jpg"
+        },
+        "3": {
+          "id": "6952781331",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q64_o3.jpg"
+        },
+        "4": {
+          "id": "6952781329",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q64_o4.jpg"
+        }
+      },
+      "chosen": 3,
+      "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q64.jpg"
+    },
+    {
+      "section": "maths",
+      "sub": "Mathematics Section A",
+      "qno": 10,
+      "qid": "695278381",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781298",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q56_o1.jpg"
+        },
+        "2": {
+          "id": "6952781299",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q56_o2.jpg"
+        },
+        "3": {
+          "id": "6952781296",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q56_o3.jpg"
+        },
+        "4": {
+          "id": "6952781297",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q56_o4.jpg"
+        }
+      },
+      "chosen": null,
+      "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q56.jpg"
+    },
+    {
+      "section": "maths",
+      "sub": "Mathematics Section A",
+      "qno": 11,
+      "qid": "695278383",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781305",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q58_o1.jpg"
+        },
+        "2": {
+          "id": "6952781306",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q58_o2.jpg"
+        },
+        "3": {
+          "id": "6952781307",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q58_o3.jpg"
+        },
+        "4": {
+          "id": "6952781304",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q58_o4.jpg"
+        }
+      },
+      "chosen": null,
+      "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q58.jpg"
+    },
+    {
+      "section": "maths",
+      "sub": "Mathematics Section A",
+      "qno": 12,
+      "qid": "695278380",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781295",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q55_o1.jpg"
+        },
+        "2": {
+          "id": "6952781292",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q55_o2.jpg"
+        },
+        "3": {
+          "id": "6952781293",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q55_o3.jpg"
+        },
+        "4": {
+          "id": "6952781294",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q55_o4.jpg"
+        }
+      },
+      "chosen": null,
+      "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q55.jpg"
+    },
+    {
+      "section": "maths",
+      "sub": "Mathematics Section A",
+      "qno": 13,
+      "qid": "695278377",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781281",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q52_o1.jpg"
+        },
+        "2": {
+          "id": "6952781282",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q52_o2.jpg"
+        },
+        "3": {
+          "id": "6952781280",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q52_o3.jpg"
+        },
+        "4": {
+          "id": "6952781283",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q52_o4.jpg"
+        }
+      },
+      "chosen": null,
+      "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q52.jpg"
+    },
+    {
+      "section": "maths",
+      "sub": "Mathematics Section A",
+      "qno": 14,
+      "qid": "695278391",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781339",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q66_o1.jpg"
+        },
+        "2": {
+          "id": "6952781337",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q66_o2.jpg"
+        },
+        "3": {
+          "id": "6952781336",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q66_o3.jpg"
+        },
+        "4": {
+          "id": "6952781338",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q66_o4.jpg"
+        }
+      },
+      "chosen": null,
+      "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q66.jpg"
+    },
+    {
+      "section": "maths",
+      "sub": "Mathematics Section A",
+      "qno": 15,
+      "qid": "695278395",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781354",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q70_o1.jpg"
+        },
+        "2": {
+          "id": "6952781355",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q70_o2.jpg"
+        },
+        "3": {
+          "id": "6952781353",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q70_o3.jpg"
+        },
+        "4": {
+          "id": "6952781352",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q70_o4.jpg"
+        }
+      },
+      "chosen": 1,
+      "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q70.jpg"
+    },
+    {
+      "section": "maths",
+      "sub": "Mathematics Section A",
+      "qno": 16,
+      "qid": "695278387",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781320",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q62_o1.jpg"
+        },
+        "2": {
+          "id": "6952781321",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q62_o2.jpg"
+        },
+        "3": {
+          "id": "6952781323",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q62_o3.jpg"
+        },
+        "4": {
+          "id": "6952781322",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q62_o4.jpg"
+        }
+      },
+      "chosen": null,
+      "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q62.jpg"
+    },
+    {
+      "section": "maths",
+      "sub": "Mathematics Section A",
+      "qno": 17,
+      "qid": "695278385",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781315",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q60_o1.jpg"
+        },
+        "2": {
+          "id": "6952781312",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q60_o2.jpg"
+        },
+        "3": {
+          "id": "6952781313",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q60_o3.jpg"
+        },
+        "4": {
+          "id": "6952781314",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q60_o4.jpg"
+        }
+      },
+      "chosen": null,
+      "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q60.jpg"
+    },
+    {
+      "section": "maths",
+      "sub": "Mathematics Section A",
+      "qno": 18,
+      "qid": "695278388",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781327",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q63_o1.jpg"
+        },
+        "2": {
+          "id": "6952781326",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q63_o2.jpg"
+        },
+        "3": {
+          "id": "6952781324",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q63_o3.jpg"
+        },
+        "4": {
+          "id": "6952781325",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q63_o4.jpg"
+        }
+      },
+      "chosen": 4,
+      "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q63.jpg"
+    },
+    {
+      "section": "maths",
+      "sub": "Mathematics Section A",
+      "qno": 19,
+      "qid": "695278390",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781335",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q65_o1.jpg"
+        },
+        "2": {
+          "id": "6952781333",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q65_o2.jpg"
+        },
+        "3": {
+          "id": "6952781334",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q65_o3.jpg"
+        },
+        "4": {
+          "id": "6952781332",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q65_o4.jpg"
+        }
+      },
+      "chosen": null,
+      "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q65.jpg"
+    },
+    {
+      "section": "maths",
+      "sub": "Mathematics Section A",
+      "qno": 20,
+      "qid": "695278392",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781343",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q67_o1.jpg"
+        },
+        "2": {
+          "id": "6952781340",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q67_o2.jpg"
+        },
+        "3": {
+          "id": "6952781341",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q67_o3.jpg"
+        },
+        "4": {
+          "id": "6952781342",
+          "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q67_o4.jpg"
+        }
+      },
+      "chosen": null,
+      "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q67.jpg"
+    },
+    {
+      "section": "maths",
+      "sub": "Mathematics Section B",
+      "qno": 21,
+      "qid": "695278399",
+      "type": "SA",
+      "given": null,
+      "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q74.jpg"
+    },
+    {
+      "section": "maths",
+      "sub": "Mathematics Section B",
+      "qno": 22,
+      "qid": "695278397",
+      "type": "SA",
+      "given": null,
+      "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q72.jpg"
+    },
+    {
+      "section": "maths",
+      "sub": "Mathematics Section B",
+      "qno": 23,
+      "qid": "695278396",
+      "type": "SA",
+      "given": null,
+      "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q71.jpg"
+    },
+    {
+      "section": "maths",
+      "sub": "Mathematics Section B",
+      "qno": 24,
+      "qid": "695278398",
+      "type": "SA",
+      "given": null,
+      "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q73.jpg"
+    },
+    {
+      "section": "maths",
+      "sub": "Mathematics Section B",
+      "qno": 25,
+      "qid": "695278400",
+      "type": "SA",
+      "given": null,
+      "imageUrl": "/data/images/2083_695278_0_29761202_p_set01_english_q75.jpg"
+    },
+    {
+      "section": "physics",
+      "sub": "Physics Section A",
+      "qno": 26,
+      "qid": "695278413",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781411",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q13_o1.jpg"
+        },
+        "2": {
+          "id": "6952781412",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q13_o2.jpg"
+        },
+        "3": {
+          "id": "6952781410",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q13_o3.jpg"
+        },
+        "4": {
+          "id": "6952781409",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q13_o4.jpg"
+        }
+      },
+      "chosen": 3,
+      "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q13.jpg"
+    },
+    {
+      "section": "physics",
+      "sub": "Physics Section A",
+      "qno": 27,
+      "qid": "695278404",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781374",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q4_o1.jpg"
+        },
+        "2": {
+          "id": "6952781373",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q4_o2.jpg"
+        },
+        "3": {
+          "id": "6952781375",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q4_o3.jpg"
+        },
+        "4": {
+          "id": "6952781376",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q4_o4.jpg"
+        }
+      },
+      "chosen": 1,
+      "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q4.jpg"
+    },
+    {
+      "section": "physics",
+      "sub": "Physics Section A",
+      "qno": 28,
+      "qid": "695278403",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781372",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q3_o1.jpg"
+        },
+        "2": {
+          "id": "6952781371",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q3_o2.jpg"
+        },
+        "3": {
+          "id": "6952781369",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q3_o3.jpg"
+        },
+        "4": {
+          "id": "6952781370",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q3_o4.jpg"
+        }
+      },
+      "chosen": 1,
+      "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q3.jpg"
+    },
+    {
+      "section": "physics",
+      "sub": "Physics Section A",
+      "qno": 29,
+      "qid": "695278410",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781398",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q10_o1.jpg"
+        },
+        "2": {
+          "id": "6952781399",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q10_o2.jpg"
+        },
+        "3": {
+          "id": "6952781400",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q10_o3.jpg"
+        },
+        "4": {
+          "id": "6952781397",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q10_o4.jpg"
+        }
+      },
+      "chosen": null,
+      "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q10.jpg"
+    },
+    {
+      "section": "physics",
+      "sub": "Physics Section A",
+      "qno": 30,
+      "qid": "695278420",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781440",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q20_o1.jpg"
+        },
+        "2": {
+          "id": "6952781438",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q20_o2.jpg"
+        },
+        "3": {
+          "id": "6952781439",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q20_o3.jpg"
+        },
+        "4": {
+          "id": "6952781437",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q20_o4.jpg"
+        }
+      },
+      "chosen": 4,
+      "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q20.jpg"
+    },
+    {
+      "section": "physics",
+      "sub": "Physics Section A",
+      "qno": 31,
+      "qid": "695278414",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781413",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q14_o1.jpg"
+        },
+        "2": {
+          "id": "6952781415",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q14_o2.jpg"
+        },
+        "3": {
+          "id": "6952781414",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q14_o3.jpg"
+        },
+        "4": {
+          "id": "6952781416",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q14_o4.jpg"
+        }
+      },
+      "chosen": 2,
+      "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q14.jpg"
+    },
+    {
+      "section": "physics",
+      "sub": "Physics Section A",
+      "qno": 32,
+      "qid": "695278405",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781378",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q5_o1.jpg"
+        },
+        "2": {
+          "id": "6952781379",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q5_o2.jpg"
+        },
+        "3": {
+          "id": "6952781377",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q5_o3.jpg"
+        },
+        "4": {
+          "id": "6952781380",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q5_o4.jpg"
+        }
+      },
+      "chosen": 4,
+      "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q5.jpg"
+    },
+    {
+      "section": "physics",
+      "sub": "Physics Section A",
+      "qno": 33,
+      "qid": "695278418",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781430",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q18_o1.jpg"
+        },
+        "2": {
+          "id": "6952781429",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q18_o2.jpg"
+        },
+        "3": {
+          "id": "6952781431",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q18_o3.jpg"
+        },
+        "4": {
+          "id": "6952781432",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q18_o4.jpg"
+        }
+      },
+      "chosen": 4,
+      "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q18.jpg"
+    },
+    {
+      "section": "physics",
+      "sub": "Physics Section A",
+      "qno": 34,
+      "qid": "695278408",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781391",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q8_o1.jpg"
+        },
+        "2": {
+          "id": "6952781390",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q8_o2.jpg"
+        },
+        "3": {
+          "id": "6952781389",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q8_o3.jpg"
+        },
+        "4": {
+          "id": "6952781392",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q8_o4.jpg"
+        }
+      },
+      "chosen": 1,
+      "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q8.jpg"
+    },
+    {
+      "section": "physics",
+      "sub": "Physics Section A",
+      "qno": 35,
+      "qid": "695278402",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781368",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q2_o1.jpg"
+        },
+        "2": {
+          "id": "6952781365",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q2_o2.jpg"
+        },
+        "3": {
+          "id": "6952781366",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q2_o3.jpg"
+        },
+        "4": {
+          "id": "6952781367",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q2_o4.jpg"
+        }
+      },
+      "chosen": 2,
+      "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q2.jpg"
+    },
+    {
+      "section": "physics",
+      "sub": "Physics Section A",
+      "qno": 36,
+      "qid": "695278415",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781417",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q15_o1.jpg"
+        },
+        "2": {
+          "id": "6952781419",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q15_o2.jpg"
+        },
+        "3": {
+          "id": "6952781418",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q15_o3.jpg"
+        },
+        "4": {
+          "id": "6952781420",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q15_o4.jpg"
+        }
+      },
+      "chosen": 1,
+      "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q15.jpg"
+    },
+    {
+      "section": "physics",
+      "sub": "Physics Section A",
+      "qno": 37,
+      "qid": "695278401",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781364",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q1_o1.jpg"
+        },
+        "2": {
+          "id": "6952781363",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q1_o2.jpg"
+        },
+        "3": {
+          "id": "6952781362",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q1_o3.jpg"
+        },
+        "4": {
+          "id": "6952781361",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q1_o4.jpg"
+        }
+      },
+      "chosen": 4,
+      "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q1.jpg"
+    },
+    {
+      "section": "physics",
+      "sub": "Physics Section A",
+      "qno": 38,
+      "qid": "695278407",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781386",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q7_o1.jpg"
+        },
+        "2": {
+          "id": "6952781385",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q7_o2.jpg"
+        },
+        "3": {
+          "id": "6952781387",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q7_o3.jpg"
+        },
+        "4": {
+          "id": "6952781388",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q7_o4.jpg"
+        }
+      },
+      "chosen": 1,
+      "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q7.jpg"
+    },
+    {
+      "section": "physics",
+      "sub": "Physics Section A",
+      "qno": 39,
+      "qid": "695278416",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781421",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q16_o1.jpg"
+        },
+        "2": {
+          "id": "6952781422",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q16_o2.jpg"
+        },
+        "3": {
+          "id": "6952781423",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q16_o3.jpg"
+        },
+        "4": {
+          "id": "6952781424",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q16_o4.jpg"
+        }
+      },
+      "chosen": 4,
+      "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q16.jpg"
+    },
+    {
+      "section": "physics",
+      "sub": "Physics Section A",
+      "qno": 40,
+      "qid": "695278412",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781405",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q12_o1.jpg"
+        },
+        "2": {
+          "id": "6952781408",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q12_o2.jpg"
+        },
+        "3": {
+          "id": "6952781407",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q12_o3.jpg"
+        },
+        "4": {
+          "id": "6952781406",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q12_o4.jpg"
+        }
+      },
+      "chosen": 1,
+      "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q12.jpg"
+    },
+    {
+      "section": "physics",
+      "sub": "Physics Section A",
+      "qno": 41,
+      "qid": "695278417",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781427",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q17_o1.jpg"
+        },
+        "2": {
+          "id": "6952781426",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q17_o2.jpg"
+        },
+        "3": {
+          "id": "6952781428",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q17_o3.jpg"
+        },
+        "4": {
+          "id": "6952781425",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q17_o4.jpg"
+        }
+      },
+      "chosen": null,
+      "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q17.jpg"
+    },
+    {
+      "section": "physics",
+      "sub": "Physics Section A",
+      "qno": 42,
+      "qid": "695278419",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781436",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q19_o1.jpg"
+        },
+        "2": {
+          "id": "6952781433",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q19_o2.jpg"
+        },
+        "3": {
+          "id": "6952781435",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q19_o3.jpg"
+        },
+        "4": {
+          "id": "6952781434",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q19_o4.jpg"
+        }
+      },
+      "chosen": 2,
+      "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q19.jpg"
+    },
+    {
+      "section": "physics",
+      "sub": "Physics Section A",
+      "qno": 43,
+      "qid": "695278406",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781381",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q6_o1.jpg"
+        },
+        "2": {
+          "id": "6952781383",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q6_o2.jpg"
+        },
+        "3": {
+          "id": "6952781384",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q6_o3.jpg"
+        },
+        "4": {
+          "id": "6952781382",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q6_o4.jpg"
+        }
+      },
+      "chosen": null,
+      "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q6.jpg"
+    },
+    {
+      "section": "physics",
+      "sub": "Physics Section A",
+      "qno": 44,
+      "qid": "695278409",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781393",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q9_o1.jpg"
+        },
+        "2": {
+          "id": "6952781395",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q9_o2.jpg"
+        },
+        "3": {
+          "id": "6952781394",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q9_o3.jpg"
+        },
+        "4": {
+          "id": "6952781396",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q9_o4.jpg"
+        }
+      },
+      "chosen": 4,
+      "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q9.jpg"
+    },
+    {
+      "section": "physics",
+      "sub": "Physics Section A",
+      "qno": 45,
+      "qid": "695278411",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781401",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q11_o1.jpg"
+        },
+        "2": {
+          "id": "6952781403",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q11_o2.jpg"
+        },
+        "3": {
+          "id": "6952781404",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q11_o3.jpg"
+        },
+        "4": {
+          "id": "6952781402",
+          "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q11_o4.jpg"
+        }
+      },
+      "chosen": 4,
+      "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q11.jpg"
+    },
+    {
+      "section": "physics",
+      "sub": "Physics Section B",
+      "qno": 46,
+      "qid": "695278423",
+      "type": "SA",
+      "given": null,
+      "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q23.jpg"
+    },
+    {
+      "section": "physics",
+      "sub": "Physics Section B",
+      "qno": 47,
+      "qid": "695278421",
+      "type": "SA",
+      "given": "100",
+      "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q21.jpg"
+    },
+    {
+      "section": "physics",
+      "sub": "Physics Section B",
+      "qno": 48,
+      "qid": "695278422",
+      "type": "SA",
+      "given": null,
+      "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q22.jpg"
+    },
+    {
+      "section": "physics",
+      "sub": "Physics Section B",
+      "qno": 49,
+      "qid": "695278425",
+      "type": "SA",
+      "given": null,
+      "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q25.jpg"
+    },
+    {
+      "section": "physics",
+      "sub": "Physics Section B",
+      "qno": 50,
+      "qid": "695278424",
+      "type": "SA",
+      "given": "314",
+      "imageUrl": "/data/images/2083_695278_0_29761202_q_set01_english_q24.jpg"
+    },
+    {
+      "section": "chemistry",
+      "sub": "Chemistry Section A",
+      "qno": 51,
+      "qid": "695278445",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781525",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q120_o1.jpg"
+        },
+        "2": {
+          "id": "6952781523",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q120_o2.jpg"
+        },
+        "3": {
+          "id": "6952781522",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q120_o3.jpg"
+        },
+        "4": {
+          "id": "6952781524",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q120_o4.jpg"
+        }
+      },
+      "chosen": 3,
+      "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q120.jpg"
+    },
+    {
+      "section": "chemistry",
+      "sub": "Chemistry Section A",
+      "qno": 52,
+      "qid": "695278430",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781465",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q105_o1.jpg"
+        },
+        "2": {
+          "id": "6952781462",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q105_o2.jpg"
+        },
+        "3": {
+          "id": "6952781463",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q105_o3.jpg"
+        },
+        "4": {
+          "id": "6952781464",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q105_o4.jpg"
+        }
+      },
+      "chosen": null,
+      "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q105.jpg"
+    },
+    {
+      "section": "chemistry",
+      "sub": "Chemistry Section A",
+      "qno": 53,
+      "qid": "695278441",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781508",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q116_o1.jpg"
+        },
+        "2": {
+          "id": "6952781507",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q116_o2.jpg"
+        },
+        "3": {
+          "id": "6952781506",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q116_o3.jpg"
+        },
+        "4": {
+          "id": "6952781509",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q116_o4.jpg"
+        }
+      },
+      "chosen": null,
+      "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q116.jpg"
+    },
+    {
+      "section": "chemistry",
+      "sub": "Chemistry Section A",
+      "qno": 54,
+      "qid": "695278427",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781453",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q102_o1.jpg"
+        },
+        "2": {
+          "id": "6952781451",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q102_o2.jpg"
+        },
+        "3": {
+          "id": "6952781452",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q102_o3.jpg"
+        },
+        "4": {
+          "id": "6952781450",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q102_o4.jpg"
+        }
+      },
+      "chosen": null,
+      "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q102.jpg"
+    },
+    {
+      "section": "chemistry",
+      "sub": "Chemistry Section A",
+      "qno": 55,
+      "qid": "695278438",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781496",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q113_o1.jpg"
+        },
+        "2": {
+          "id": "6952781497",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q113_o2.jpg"
+        },
+        "3": {
+          "id": "6952781495",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q113_o3.jpg"
+        },
+        "4": {
+          "id": "6952781494",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q113_o4.jpg"
+        }
+      },
+      "chosen": null,
+      "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q113.jpg"
+    },
+    {
+      "section": "chemistry",
+      "sub": "Chemistry Section A",
+      "qno": 56,
+      "qid": "695278426",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781447",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q101_o1.jpg"
+        },
+        "2": {
+          "id": "6952781449",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q101_o2.jpg"
+        },
+        "3": {
+          "id": "6952781446",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q101_o3.jpg"
+        },
+        "4": {
+          "id": "6952781448",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q101_o4.jpg"
+        }
+      },
+      "chosen": null,
+      "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q101.jpg"
+    },
+    {
+      "section": "chemistry",
+      "sub": "Chemistry Section A",
+      "qno": 57,
+      "qid": "695278432",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781473",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q107_o1.jpg"
+        },
+        "2": {
+          "id": "6952781471",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q107_o2.jpg"
+        },
+        "3": {
+          "id": "6952781470",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q107_o3.jpg"
+        },
+        "4": {
+          "id": "6952781472",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q107_o4.jpg"
+        }
+      },
+      "chosen": 3,
+      "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q107.jpg"
+    },
+    {
+      "section": "chemistry",
+      "sub": "Chemistry Section A",
+      "qno": 58,
+      "qid": "695278440",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781503",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q115_o1.jpg"
+        },
+        "2": {
+          "id": "6952781502",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q115_o2.jpg"
+        },
+        "3": {
+          "id": "6952781504",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q115_o3.jpg"
+        },
+        "4": {
+          "id": "6952781505",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q115_o4.jpg"
+        }
+      },
+      "chosen": 1,
+      "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q115.jpg"
+    },
+    {
+      "section": "chemistry",
+      "sub": "Chemistry Section A",
+      "qno": 59,
+      "qid": "695278436",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781486",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q111_o1.jpg"
+        },
+        "2": {
+          "id": "6952781488",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q111_o2.jpg"
+        },
+        "3": {
+          "id": "6952781487",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q111_o3.jpg"
+        },
+        "4": {
+          "id": "6952781489",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q111_o4.jpg"
+        }
+      },
+      "chosen": 1,
+      "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q111.jpg"
+    },
+    {
+      "section": "chemistry",
+      "sub": "Chemistry Section A",
+      "qno": 60,
+      "qid": "695278435",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781484",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q110_o1.jpg"
+        },
+        "2": {
+          "id": "6952781482",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q110_o2.jpg"
+        },
+        "3": {
+          "id": "6952781485",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q110_o3.jpg"
+        },
+        "4": {
+          "id": "6952781483",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q110_o4.jpg"
+        }
+      },
+      "chosen": 2,
+      "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q110.jpg"
+    },
+    {
+      "section": "chemistry",
+      "sub": "Chemistry Section A",
+      "qno": 61,
+      "qid": "695278443",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781515",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q118_o1.jpg"
+        },
+        "2": {
+          "id": "6952781514",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q118_o2.jpg"
+        },
+        "3": {
+          "id": "6952781517",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q118_o3.jpg"
+        },
+        "4": {
+          "id": "6952781516",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q118_o4.jpg"
+        }
+      },
+      "chosen": 4,
+      "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q118.jpg"
+    },
+    {
+      "section": "chemistry",
+      "sub": "Chemistry Section A",
+      "qno": 62,
+      "qid": "695278433",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781477",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q108_o1.jpg"
+        },
+        "2": {
+          "id": "6952781476",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q108_o2.jpg"
+        },
+        "3": {
+          "id": "6952781475",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q108_o3.jpg"
+        },
+        "4": {
+          "id": "6952781474",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q108_o4.jpg"
+        }
+      },
+      "chosen": null,
+      "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q108.jpg"
+    },
+    {
+      "section": "chemistry",
+      "sub": "Chemistry Section A",
+      "qno": 63,
+      "qid": "695278439",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781501",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q114_o1.jpg"
+        },
+        "2": {
+          "id": "6952781500",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q114_o2.jpg"
+        },
+        "3": {
+          "id": "6952781498",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q114_o3.jpg"
+        },
+        "4": {
+          "id": "6952781499",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q114_o4.jpg"
+        }
+      },
+      "chosen": 1,
+      "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q114.jpg"
+    },
+    {
+      "section": "chemistry",
+      "sub": "Chemistry Section A",
+      "qno": 64,
+      "qid": "695278444",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781521",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q119_o1.jpg"
+        },
+        "2": {
+          "id": "6952781519",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q119_o2.jpg"
+        },
+        "3": {
+          "id": "6952781520",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q119_o3.jpg"
+        },
+        "4": {
+          "id": "6952781518",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q119_o4.jpg"
+        }
+      },
+      "chosen": 1,
+      "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q119.jpg"
+    },
+    {
+      "section": "chemistry",
+      "sub": "Chemistry Section A",
+      "qno": 65,
+      "qid": "695278437",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781490",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q112_o1.jpg"
+        },
+        "2": {
+          "id": "6952781492",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q112_o2.jpg"
+        },
+        "3": {
+          "id": "6952781493",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q112_o3.jpg"
+        },
+        "4": {
+          "id": "6952781491",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q112_o4.jpg"
+        }
+      },
+      "chosen": 2,
+      "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q112.jpg"
+    },
+    {
+      "section": "chemistry",
+      "sub": "Chemistry Section A",
+      "qno": 66,
+      "qid": "695278429",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781461",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q104_o1.jpg"
+        },
+        "2": {
+          "id": "6952781460",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q104_o2.jpg"
+        },
+        "3": {
+          "id": "6952781459",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q104_o3.jpg"
+        },
+        "4": {
+          "id": "6952781458",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q104_o4.jpg"
+        }
+      },
+      "chosen": null,
+      "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q104.jpg"
+    },
+    {
+      "section": "chemistry",
+      "sub": "Chemistry Section A",
+      "qno": 67,
+      "qid": "695278428",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781455",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q103_o1.jpg"
+        },
+        "2": {
+          "id": "6952781454",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q103_o2.jpg"
+        },
+        "3": {
+          "id": "6952781457",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q103_o3.jpg"
+        },
+        "4": {
+          "id": "6952781456",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q103_o4.jpg"
+        }
+      },
+      "chosen": 2,
+      "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q103.jpg"
+    },
+    {
+      "section": "chemistry",
+      "sub": "Chemistry Section A",
+      "qno": 68,
+      "qid": "695278431",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781469",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q106_o1.jpg"
+        },
+        "2": {
+          "id": "6952781468",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q106_o2.jpg"
+        },
+        "3": {
+          "id": "6952781467",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q106_o3.jpg"
+        },
+        "4": {
+          "id": "6952781466",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q106_o4.jpg"
+        }
+      },
+      "chosen": 1,
+      "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q106.jpg"
+    },
+    {
+      "section": "chemistry",
+      "sub": "Chemistry Section A",
+      "qno": 69,
+      "qid": "695278442",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781512",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q117_o1.jpg"
+        },
+        "2": {
+          "id": "6952781510",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q117_o2.jpg"
+        },
+        "3": {
+          "id": "6952781513",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q117_o3.jpg"
+        },
+        "4": {
+          "id": "6952781511",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q117_o4.jpg"
+        }
+      },
+      "chosen": 3,
+      "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q117.jpg"
+    },
+    {
+      "section": "chemistry",
+      "sub": "Chemistry Section A",
+      "qno": 70,
+      "qid": "695278434",
+      "type": "MCQ",
+      "options": {
+        "1": {
+          "id": "6952781478",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q109_o1.jpg"
+        },
+        "2": {
+          "id": "6952781479",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q109_o2.jpg"
+        },
+        "3": {
+          "id": "6952781480",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q109_o3.jpg"
+        },
+        "4": {
+          "id": "6952781481",
+          "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q109_o4.jpg"
+        }
+      },
+      "chosen": null,
+      "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q109.jpg"
+    },
+    {
+      "section": "chemistry",
+      "sub": "Chemistry Section B",
+      "qno": 71,
+      "qid": "695278449",
+      "type": "SA",
+      "given": "0",
+      "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q124.jpg"
+    },
+    {
+      "section": "chemistry",
+      "sub": "Chemistry Section B",
+      "qno": 72,
+      "qid": "695278448",
+      "type": "SA",
+      "given": "6",
+      "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q123.jpg"
+    },
+    {
+      "section": "chemistry",
+      "sub": "Chemistry Section B",
+      "qno": 73,
+      "qid": "695278450",
+      "type": "SA",
+      "given": null,
+      "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q125.jpg"
+    },
+    {
+      "section": "chemistry",
+      "sub": "Chemistry Section B",
+      "qno": 74,
+      "qid": "695278447",
+      "type": "SA",
+      "given": null,
+      "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q122.jpg"
+    },
+    {
+      "section": "chemistry",
+      "sub": "Chemistry Section B",
+      "qno": 75,
+      "qid": "695278446",
+      "type": "SA",
+      "given": null,
+      "imageUrl": "/data/images/2083_695278_0_29761202_r_set01_english_q121.jpg"
+    }
+  ]
+}

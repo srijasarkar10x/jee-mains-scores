@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+@theme {
+  --color-app-bg: #f5f2eb;
+  --color-app-surface: #ffffff;
+  --color-app-surface2: #f0ece2;
+  --color-app-ink: #1a1612;
+  --color-app-ink2: #5a5248;
+  --color-app-ink3: #9b9188;
+  --color-app-accent: #c85a1e;
+  --color-app-accent2: #e8a87c;
+  --color-app-green: #3a7d44;
+  --color-app-green-bg: #e8f5eb;
+  --color-app-red: #c0392b;
+  --color-app-red-bg: #fdecea;
+  --color-app-blue: #1a5276;
+  --color-app-blue-bg: #eaf2fb;
+  --color-app-border: rgba(26,22,18,0.1);
+  --color-app-border2: rgba(26,22,18,0.06);
+  --shadow-app: 0 2px 16px rgba(26,22,18,0.08);
+  --shadow-app-lg: 0 8px 40px rgba(26,22,18,0.12);
+  --font-outfit: "Outfit", sans-serif;
+  --font-serif: "DM Serif Display", serif;
+  --font-mono: "DM Mono", monospace;
+}
+
+body {
+  background-color: var(--color-app-bg);
+  color: var(--color-app-ink);
+  font-family: var(--font-outfit);
+  font-size: 15px;
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(16px); }
+  to { opacity: 1; transform: translateY(0); }
+}
