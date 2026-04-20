@@ -180,7 +180,7 @@ export default function Scorecard({ jsonPath }: { jsonPath: string }) {
         <div className="absolute -top-15 -right-15 w-80 h-80 rounded-full bg-[rgba(200,90,30,0.15)] pointer-events-none" />
         <div className="absolute -bottom-20 left-[30%] w-50 h-50 rounded-full bg-[rgba(200,90,30,0.08)] pointer-events-none" />
 
-        <div className="max-w-[900px] mx-auto relative z-10">
+        <div className="max-w-225 mx-auto relative z-10">
           <div className="flex justify-between items-start flex-col sm:flex-row gap-4">
             <div>
               <div className="font-mono text-[11px] tracking-[0.12em] uppercase text-app-accent2 mb-2">
@@ -195,7 +195,7 @@ export default function Scorecard({ jsonPath }: { jsonPath: string }) {
                <a href={repoUrl} target="_blank" rel="noopener noreferrer" className="text-white/60 hover:text-white transition-colors" title="View Source">
                  <PiGithubLogoLight className="w-6 h-6" />
                </a>
-               <Link to="/" className="text-xs font-medium bg-[var(--color-app-surface2)] text-black px-3 py-1.5 rounded hover:bg-white transition-colors">← All Results</Link>
+               <Link to="/" className="text-xs font-medium bg-app-surface2 text-black px-3 py-1.5 rounded hover:bg-white transition-colors">← All Results</Link>
             </div>
           </div>
           <div className="flex flex-wrap gap-6 mt-5 pt-5 border-t border-white/10">
@@ -232,33 +232,33 @@ export default function Scorecard({ jsonPath }: { jsonPath: string }) {
         </div>
       </div>
 
-      <div className="max-w-[900px] mx-auto px-6 py-8 pb-16">
+      <div className="max-w-225 mx-auto px-6 py-8 pb-16">
         {/* SCORE HERO */}
-        <div className="grid grid-cols-1 md:grid-cols-[auto_1px_1fr] gap-8 items-center bg-app-surface rounded-[12px] p-8 mb-6 shadow-app border border-app-border2 animate-[fadeUp_0.4s_ease_both]">
+        <div className="grid grid-cols-1 md:grid-cols-[auto_1px_1fr] gap-8 items-center bg-app-surface rounded-xl p-8 mb-6 shadow-app border border-app-border2 animate-[fadeUp_0.4s_ease_both]">
           <div className="text-center">
             <div className="font-serif text-[5rem] leading-none text-app-accent">{totalPts}</div>
             <div className="font-mono text-[13px] text-app-ink3 mt-1 tracking-[0.05em]">out of 300</div>
-            <div className="text-[12px] font-semibold uppercase tracking-[0.1em] text-app-ink3 mt-1.5">Total Score</div>
+            <div className="text-[12px] font-semibold uppercase tracking-widest text-app-ink3 mt-1.5">Total Score</div>
           </div>
-          <div className="hidden md:block w-[1px] bg-app-border self-stretch min-h-[80px]"></div>
+          <div className="hidden md:block w-px bg-app-border self-stretch min-h-20"></div>
           <div className="grid grid-cols-[repeat(auto-fit,minmax(100px,1fr))] gap-4">
-            <div className="text-center p-3 bg-app-surface2 rounded-[8px]">
+            <div className="text-center p-3 bg-app-surface2 rounded-lg">
               <div className="font-serif text-[1.8rem] leading-none text-app-green">{totalCorrect}</div>
               <div className="text-[11px] font-medium uppercase tracking-[0.08em] text-app-ink3 mt-1">Correct</div>
             </div>
-            <div className="text-center p-3 bg-app-surface2 rounded-[8px]">
+            <div className="text-center p-3 bg-app-surface2 rounded-lg">
               <div className="font-serif text-[1.8rem] leading-none text-app-red">{totalWrong}</div>
               <div className="text-[11px] font-medium uppercase tracking-[0.08em] text-app-ink3 mt-1">Wrong</div>
             </div>
-            <div className="text-center p-3 bg-app-surface2 rounded-[8px]">
+            <div className="text-center p-3 bg-app-surface2 rounded-lg">
               <div className="font-serif text-[1.8rem] leading-none text-app-ink">{totalUnattempted}</div>
               <div className="text-[11px] font-medium uppercase tracking-[0.08em] text-app-ink3 mt-1">Skipped</div>
             </div>
-            <div className="text-center p-3 bg-app-surface2 rounded-[8px]">
+            <div className="text-center p-3 bg-app-surface2 rounded-lg">
               <div className="font-serif text-[1.8rem] leading-none text-app-ink">{accuracy}</div>
               <div className="text-[11px] font-medium uppercase tracking-[0.08em] text-app-ink3 mt-1">Accuracy</div>
             </div>
-            <div className="text-center p-3 bg-app-surface2 rounded-[8px]">
+            <div className="text-center p-3 bg-app-surface2 rounded-lg">
               <div className="font-serif text-[1.8rem] leading-none text-app-ink">{totalAttempted}/75</div>
               <div className="text-[11px] font-medium uppercase tracking-[0.08em] text-app-ink3 mt-1">Attempted</div>
             </div>
@@ -278,10 +278,10 @@ export default function Scorecard({ jsonPath }: { jsonPath: string }) {
             { key: 'chemistry', label: 'Chemistry', stats: chemS, gradient: 'linear-gradient(90deg, #3a7d44, #68b984)' }
           ].map((s, i) => (
             <div key={s.key} className={clsx(
-              "bg-app-surface rounded-[12px] p-6 shadow-app border border-app-border2 relative overflow-hidden animate-[fadeUp_0.4s_ease_both]"
+              "bg-app-surface rounded-xl p-6 shadow-app border border-app-border2 relative overflow-hidden animate-[fadeUp_0.4s_ease_both]"
             )} style={{ animationDelay: `${i * 0.05}s` }}>
-              <div className="absolute top-0 left-0 right-0 h-[3px]" style={{ background: s.gradient }}></div>
-              <div className="text-[11px] font-semibold uppercase tracking-[0.1em] text-app-ink3 mb-2">{s.label}</div>
+              <div className="absolute top-0 left-0 right-0 h-0.75" style={{ background: s.gradient }}></div>
+              <div className="text-[11px] font-semibold uppercase tracking-widest text-app-ink3 mb-2">{s.label}</div>
               <div className="font-serif text-[3rem] leading-none text-app-ink">{s.stats.pts}</div>
               <div className="font-mono text-[12px] text-app-ink3 mb-4">out of 100</div>
               <div className="flex flex-wrap gap-1.5">
@@ -294,15 +294,15 @@ export default function Scorecard({ jsonPath }: { jsonPath: string }) {
         </div>
 
         {/* CHART */}
-        <div className="bg-app-surface rounded-[12px] p-7 shadow-app border border-app-border2 mb-6 animate-[fadeUp_0.4s_ease_both]">
+        <div className="bg-app-surface rounded-xl p-7 shadow-app border border-app-border2 mb-6 animate-[fadeUp_0.4s_ease_both]">
           <div className="font-serif text-[1.1rem] text-app-ink mb-5">Score composition by subject</div>
-          <div className="h-[260px] relative">
+          <div className="h-65 relative">
             <Bar data={chartData} options={chartOptions} />
           </div>
         </div>
 
         {/* Q DETAIL */}
-        <div className="font-serif text-[1.4rem] font-normal text-app-ink my-8 mb-4 flex items-center gap-3 after:content-[''] after:flex-1 after:h-[1px] after:bg-app-border">
+        <div className="font-serif text-[1.4rem] font-normal text-app-ink my-8 mb-4 flex items-center gap-3 after:content-[''] after:flex-1 after:h-px after:bg-app-border">
           Question-by-question detail
         </div>
         
@@ -330,7 +330,7 @@ export default function Scorecard({ jsonPath }: { jsonPath: string }) {
             const pts = qs.reduce((a, q) => a + (q.points || 0), 0);
             
             return (
-              <div key={sub} className="bg-app-surface rounded-[12px] border border-app-border2 shadow-app mb-4 overflow-hidden animate-[fadeUp_0.4s_ease_both]">
+              <div key={sub} className="bg-app-surface rounded-xl border border-app-border2 shadow-app mb-4 overflow-hidden animate-[fadeUp_0.4s_ease_both]">
                 <div className="p-4 px-6 bg-app-surface2 border-b border-app-border2 flex justify-between items-center flex-wrap gap-2">
                   <div className="font-semibold text-[14px] text-app-ink">{sub}</div>
                   <div className="flex gap-3 text-[12px] text-app-ink3">
@@ -346,7 +346,7 @@ export default function Scorecard({ jsonPath }: { jsonPath: string }) {
                       key={q.qid} 
                       onClick={() => setViewingQuestion(q)}
                       className={clsx(
-                      "flex items-center justify-between px-2.5 py-1.5 rounded-[6px] text-[12px] border transition-transform duration-100 hover:-translate-y-[1px] cursor-pointer hover:shadow-sm",
+                      "flex items-center justify-between px-2.5 py-1.5 rounded-md text-[12px] border transition-transform duration-100 hover:-translate-y-px cursor-pointer hover:shadow-sm",
                       q.result === 'correct' ? "bg-app-green-bg border-[#b8dfbe] text-app-green" :
                       q.result === 'wrong' ? "bg-app-red-bg border-[#f5c6c2] text-app-red" :
                       "bg-app-surface2 border-app-border2 text-app-ink3"
