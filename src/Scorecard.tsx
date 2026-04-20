@@ -57,6 +57,7 @@ interface ResponseData {
   given?: string | null;
   result?: EvaluateResult;
   points?: number;
+  correctAnswer?: string;
 }
 
 interface ScoreData {
@@ -96,7 +97,7 @@ export default function Scorecard({ jsonPath }: { jsonPath: string }) {
             }
           }
           const points = res === 'correct' ? 4 : res === 'wrong' ? -1 : 0;
-          return { ...r, result: res, points };
+          return { ...r, result: res, points, correctAnswer: correct };
         });
         setData({ ...json, responses: evaluatedResponses });
       });
@@ -411,26 +412,36 @@ export default function Scorecard({ jsonPath }: { jsonPath: string }) {
                     ? viewingQuestion.options.map((opt, i) => (
                         <div key={opt.id} className={clsx(
                           "bg-white p-4 rounded-lg border shadow-sm transition-all relative overflow-hidden",
+                          opt.id === viewingQuestion.correctAnswer ? 'border-app-green ring-2 ring-app-green bg-[#f0fdf4]' :
                           viewingQuestion.chosen === i + 1 ? 'border-app-accent ring-1 ring-app-accent' : 'border-app-border2 opacity-80'
                         )}>
                           <div className="text-[11px] font-bold uppercase tracking-widest text-app-ink3 mb-3 flex justify-between relative z-10">
                             <span>Option {i + 1}</span>
-                            {viewingQuestion.chosen === i + 1 && <span className="text-app-accent">Chosen</span>}
+                            <div className="flex gap-2 items-center">
+                              {viewingQuestion.chosen === i + 1 && <span className="text-app-accent">Chosen</span>}
+                              {opt.id === viewingQuestion.correctAnswer && <span className="text-app-green bg-[#b8dfbe] px-1.5 py-0.5 rounded text-[10px]">CORRECT</span>}
+                            </div>
                           </div>
                           {viewingQuestion.chosen === i + 1 && <div className="absolute top-0 right-0 w-24 h-24 bg-app-accent opacity-[0.03] rounded-full -translate-y-1/2 translate-x-1/2 blur-xl" />}
+                          {opt.id === viewingQuestion.correctAnswer && <div className="absolute top-0 right-0 w-24 h-24 bg-app-green opacity-[0.05] rounded-full -translate-y-1/2 translate-x-1/2 blur-xl" />}
                           {opt.imageUrl ? <img src={resolveUrl(opt.imageUrl)} alt={`Option ${i+1}`} className="max-w-full relative z-10" /> : <div className="text-xs break-all relative z-10 font-mono">{opt.id}</div>}
                         </div>
                       ))
                     : Object.entries(viewingQuestion.options).map(([k, opt]) => (
                         <div key={opt.id} className={clsx(
                           "bg-white p-4 rounded-lg border shadow-sm transition-all relative overflow-hidden",
+                          opt.id === viewingQuestion.correctAnswer ? 'border-app-green ring-2 ring-app-green bg-[#f0fdf4]' :
                           String(viewingQuestion.chosen) === k ? 'border-app-accent ring-1 ring-app-accent' : 'border-app-border2 opacity-80'
                         )}>
                           <div className="text-[11px] font-bold uppercase tracking-widest text-app-ink3 mb-3 flex justify-between relative z-10">
                             <span>Option {k}</span>
-                            {String(viewingQuestion.chosen) === k && <span className="text-app-accent">Chosen</span>}
+                            <div className="flex gap-2 items-center">
+                              {String(viewingQuestion.chosen) === k && <span className="text-app-accent">Chosen</span>}
+                              {opt.id === viewingQuestion.correctAnswer && <span className="text-app-green bg-[#b8dfbe] px-1.5 py-0.5 rounded text-[10px]">CORRECT</span>}
+                            </div>
                           </div>
                           {String(viewingQuestion.chosen) === k && <div className="absolute top-0 right-0 w-24 h-24 bg-app-accent opacity-[0.03] rounded-full -translate-y-1/2 translate-x-1/2 blur-xl" />}
+                          {opt.id === viewingQuestion.correctAnswer && <div className="absolute top-0 right-0 w-24 h-24 bg-app-green opacity-[0.05] rounded-full -translate-y-1/2 translate-x-1/2 blur-xl" />}
                           {opt.imageUrl ? <img src={resolveUrl(opt.imageUrl)} alt={`Option ${k}`} className="max-w-full relative z-10" /> : <div className="text-xs break-all relative z-10 font-mono">{opt.id}</div>}
                         </div>
                       ))
@@ -440,9 +451,19 @@ export default function Scorecard({ jsonPath }: { jsonPath: string }) {
               
               {viewingQuestion.type === 'SA' && (
                 <div className="mt-8 pt-8 border-t border-app-border2">
-                  <h3 className="font-serif text-[1.4rem] mb-4 text-app-ink">Given Answer</h3>
-                  <div className="text-2xl font-mono font-medium text-app-ink bg-white inline-block px-5 py-3 rounded-lg border border-app-border2 shadow-sm">
-                    {viewingQuestion.given || <span className="opacity-30 italic text-lg">Not answered</span>}
+                  <div className="grid sm:grid-cols-2 gap-6">
+                    <div>
+                      <h3 className="font-serif text-[1.4rem] mb-4 text-app-ink">Given Answer</h3>
+                      <div className="text-2xl font-mono font-medium text-app-ink bg-white inline-block px-5 py-3 rounded-lg border border-app-border2 shadow-sm">
+                        {viewingQuestion.given || <span className="opacity-30 italic text-lg">Not answered</span>}
+                      </div>
+                    </div>
+                    <div>
+                      <h3 className="font-serif text-[1.4rem] mb-4 text-app-ink">Correct Answer</h3>
+                      <div className="text-2xl font-mono font-medium text-app-green bg-[#b8dfbe]/20 inline-block px-5 py-3 rounded-lg border border-[#b8dfbe] shadow-sm">
+                        {viewingQuestion.correctAnswer}
+                      </div>
+                    </div>
                   </div>
                 </div>
               )}
